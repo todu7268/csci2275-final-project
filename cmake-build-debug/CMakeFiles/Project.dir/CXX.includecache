@@ -1,0 +1,76 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/School/Year 1, Semester 2/CSCI 2270/Project/Block.cpp
+iostream
+-
+sstream
+-
+Transaction.hpp
+C:/School/Year 1, Semester 2/CSCI 2270/Project/Transaction.hpp
+Block.hpp
+C:/School/Year 1, Semester 2/CSCI 2270/Project/Block.hpp
+sha256.hpp
+C:/School/Year 1, Semester 2/CSCI 2270/Project/sha256.hpp
+
+C:/School/Year 1, Semester 2/CSCI 2270/Project/Block.hpp
+iostream
+-
+vector
+-
+Transaction.hpp
+C:/School/Year 1, Semester 2/CSCI 2270/Project/Transaction.hpp
+Wallet.h
+C:/School/Year 1, Semester 2/CSCI 2270/Project/Wallet.h
+
+C:/School/Year 1, Semester 2/CSCI 2270/Project/Blockchain.hpp
+iostream
+-
+Block.hpp
+C:/School/Year 1, Semester 2/CSCI 2270/Project/Block.hpp
+Transaction.hpp
+C:/School/Year 1, Semester 2/CSCI 2270/Project/Transaction.hpp
+Wallet.h
+C:/School/Year 1, Semester 2/CSCI 2270/Project/Wallet.h
+vector
+-
+
+C:/School/Year 1, Semester 2/CSCI 2270/Project/Transaction.hpp
+iostream
+-
+
+C:/School/Year 1, Semester 2/CSCI 2270/Project/Wallet.h
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+
+C:/School/Year 1, Semester 2/CSCI 2270/Project/main_1.cpp
+iostream
+-
+fstream
+-
+Blockchain.hpp
+C:/School/Year 1, Semester 2/CSCI 2270/Project/Blockchain.hpp
+Block.hpp
+C:/School/Year 1, Semester 2/CSCI 2270/Project/Block.hpp
+sha256.hpp
+C:/School/Year 1, Semester 2/CSCI 2270/Project/sha256.hpp
+Transaction.hpp
+C:/School/Year 1, Semester 2/CSCI 2270/Project/Transaction.hpp
+Wallet.h
+C:/School/Year 1, Semester 2/CSCI 2270/Project/Wallet.h
+
+C:/School/Year 1, Semester 2/CSCI 2270/Project/sha256.hpp
+string
+-
+
